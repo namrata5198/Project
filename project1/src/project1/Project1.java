@@ -22,7 +22,7 @@ public class Project1 {
         System.out.println("Enter the theater ID : (101,102,103)");
         int theaterID = in.nextInt();
         int theaterRating = t.rating(theaterID);
-        movie m = new movie();
+        Movie m = new Movie();
         m.movieMethod();
     }
     

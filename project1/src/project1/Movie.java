@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author User
  */
-public class movie {
+public class Movie {
     /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -19,8 +19,8 @@ public class movie {
    int choice,time;
    Scanner in = new Scanner(System.in);
    /**
-    * A user selects a movie and timings of the movie and the screen number in which the movie is running is returned
-    * @return integer for screen of the movie
+    * A user selects a Movie and timings of the Movie and the screen number in which the Movie is running is returned
+    * @return integer for screen of the Movie
     */
    public int movieMethod(){
        System.out.println("Which movie would you like to watch");
