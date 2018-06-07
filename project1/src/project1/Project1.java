@@ -23,7 +23,13 @@ public class Project1 {
         int theaterID = in.nextInt();
         int theaterRating = t.rating(theaterID);
         Movie m = new Movie();
-        m.movieMethod();
+        int screen=m.movieMethod();
+       int ticket;
+       System.out.println("Enter the number of tickets : ");
+       ticket=in.nextInt();
+       PriceCalculation p=new PriceCalculation();
+      double price = p.priceCalculation(screen,theaterRating,ticket);
+        System.out.println("The total price of the tickets is="+price);
     }
     
 }
