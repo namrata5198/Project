@@ -28,7 +28,8 @@ and the price is returned depending on number of tickets, theater rating and scr
 
 # Pro's
 
-It reduces human effort of accessing tickets on the movie counter at theater, it is friendly(can be easily used and understood by user),the calculations done are quite precise and accurate.
+* It reduces human effort of accessing tickets on the movie counter at theater, it is friendly(can be easily used and understood by user)
+* The calculations done are quite precise and accurate.
 
 # FrameWork/Platform Used
 
@@ -47,17 +48,17 @@ Built In: Netbean IDE 8.2.
 
 # Overview About Code Style
 
-Proper indentation.
-Proper White Spaces are made use.
-Appropriate declarations are made.
-Precise variables are made use.
-Valid naming conventions are done.
-Proper Programing practices.
-Block comments are done.
+* Proper indentation.
+* Proper White Spaces are made use.
+* Appropriate declarations are made.
+* Precise variables are made use.
+* Valid naming conventions are done.
+* Proper Programing practices.
+* Block comments are done whereever required.
 
 # Testing Of Code
 
-The code is been tested by various input variables resulting in desired output.Its respective testing code is attached to various files.
+The code is been tested using various inputs resulting in desired output.Its respective testing code is attached to various files.
 
 # Documentation Done
 
