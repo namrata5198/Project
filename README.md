@@ -12,7 +12,7 @@ Its a java code on movie booking transaction where a user can book a ticket for 
 
 1. Movie: This class consists of movies that are running in the theater.
 2. Theater: This class is about rating for theater.
-3. PriceCalculation: This class calculates the price of ticket for the show as per the screen.
+3. PriceCalculation: This class calculates the price of ticket for the show.
 
 It also consists 2 test cases and is as follows:
 1. TheaterTest.
